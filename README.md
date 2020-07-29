@@ -1,5 +1,5 @@
 # Movie-recommender
-To date this repositry features code and markdown that provides the foundation for a movie recommender system. The recommender is designed to output films the user may not of heard of or seen. 
+To date this repositry features code and markdown that provides the foundation for a movie recommender system. The recommender is designed to give film recommendations that the user may not of heard of or seen. 
 
 The ipython notebook contains the steps taken and commentary on the decision making behind them
 
