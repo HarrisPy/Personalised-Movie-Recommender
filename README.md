@@ -8,7 +8,3 @@ Ingestion, cleaning and trimming of the large dataset (circa 25 million ratings 
 
 In-build accuracy enhancements
 
-## Future Work
-It is the author's intention to 'productionise' this program into a UX-frindly application
-
-Other feature enhancements will be added onto future revisions
